@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bitcs_typeScript_assignment/static/css/main.fd88cf02.css",
+    "main.js": "/bitcs_typeScript_assignment/static/js/main.207a5a7b.js",
+    "static/js/453.bead9516.chunk.js": "/bitcs_typeScript_assignment/static/js/453.bead9516.chunk.js",
+    "index.html": "/bitcs_typeScript_assignment/index.html",
+    "main.fd88cf02.css.map": "/bitcs_typeScript_assignment/static/css/main.fd88cf02.css.map",
+    "main.207a5a7b.js.map": "/bitcs_typeScript_assignment/static/js/main.207a5a7b.js.map",
+    "453.bead9516.chunk.js.map": "/bitcs_typeScript_assignment/static/js/453.bead9516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd88cf02.css",
+    "static/js/main.207a5a7b.js"
+  ]
+}
